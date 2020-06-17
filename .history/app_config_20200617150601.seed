@@ -54,9 +54,10 @@ CONFIG_PACKAGE_luci-app-unblockmusic=y
 CONFIG_UnblockNeteaseMusic_Go=y
 CONFIG_UnblockNeteaseMusic_NodeJS=y
 CONFIG_PACKAGE_luci-app-kodexplorer=y
-CONFIG_PACKAGE_php7=y
-CONFIG_PACKAGE_nginx=y
-CONFIG_PACKAGE_php7-fpm-=y
+CONFIG_PACKAGE_zoneinfo-asia=y
+CONFIG_PACKAGE_zoneinfo-asia=y
+CONFIG_PACKAGE_zoneinfo-asia=y
+CONFIG_PACKAGE_zoneinfo-asia=y
 
 
 CONFIG_PACKAGE_luci-app-uhttpd=y

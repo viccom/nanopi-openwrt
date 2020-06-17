@@ -88,7 +88,7 @@ jobs:
 
       - name: Install Serverchan
         run: |
-          cd friendlywrt-h3/friendlywrt/package
+          cd friendlywrt-rk3328/friendlywrt/package
           git clone https://github.com/tty228/luci-app-serverchan.git
 
       - name: Build FriendlyWrt
